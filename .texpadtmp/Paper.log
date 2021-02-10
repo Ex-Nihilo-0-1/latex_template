@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 FEB 2021 12:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 FEB 2021 12:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Paper.tex
-(./Paper.tex
+**paper.tex
+(./paper.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -320,8 +320,8 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 )
 \@quotelevel=\count376
 \@quotereset=\count377
- (/Users/zixuanwu/Desktop/blogpostone/.texpadtmp/Paper.aux)
-\openout1 = `Paper.aux'.
+ (/Users/zixuanwu/Desktop/blogpostone/.texpadtmp/paper.aux)
+\openout1 = `paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -393,11 +393,11 @@ File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `Paper.bcf'.
+\openout3 = `paper.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Paper.bbl' found.
- (/Users/zixuanwu/Desktop/blogpostone/.texpadtmp/Paper.bbl)
+Package biblatex Info: ... file 'paper.bbl' found.
+ (/Users/zixuanwu/Desktop/blogpostone/.texpadtmp/paper.bbl)
 Package biblatex Info: Reference section=0 on input line 17.
 Package biblatex Info: Reference segment=0 on input line 17.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
@@ -411,26 +411,44 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 LaTeX Warning: No \author given.
 
+
+LaTeX Warning: Citation 'kant1999critique' on page 1 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'kant1999critique' on page 1 undefined on input line 33.
+
 [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (/Users/zixuanwu/Desktop/blogpostone/.texpadtmp/Paper.aux)
-Package logreq Info: Writing requests to 'Paper.run.xml'.
-\openout1 = `Paper.run.xml'.
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Empty bibliography on input line 34.
+
+[2] (/Users/zixuanwu/Desktop/blogpostone/.texpadtmp/paper.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                paper
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'paper.run.xml'.
+\openout1 = `paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11145 strings out of 480608
- 213949 string characters out of 5903631
- 1219767 words of memory out of 5000000
- 26966 multiletter control sequences out of 15000+600000
- 543071 words of font info for 66 fonts, out of 8000000 for 9000
+ 11109 strings out of 480608
+ 213292 string characters out of 5903631
+ 1218726 words of memory out of 5000000
+ 26936 multiletter control sequences out of 15000+600000
+ 541102 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,6n,60p,1033b,3913s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on /Users/zixuanwu/Desktop/blogpostone/.texpadtmp/Paper.pdf (2 pages, 104484 bytes).
+ 44i,6n,42p,1033b,3913s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on /Users/zixuanwu/Desktop/blogpostone/.texpadtmp/paper.pdf (2 pages, 57134 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 31 PDF objects out of 1000 (max. 8388607)
+ 21 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
