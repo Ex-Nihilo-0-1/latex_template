@@ -19,38 +19,47 @@
 
 \refsection{0}
   \datalist[entry]{cms/global//global/global}
-    \entry{Collins}{book}{}
-      \name{author}{1}{}{%
-        {{hash=beb988fc2eff76bad8845ace4b5b3c3c}{%
-           family={Collins},
-           familyi={C\bibinitperiod},
-           given={John\bibnamedelima J.},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+    \entry{kant1999critique}{book}{}
+      \name{author}{3}{}{%
+        {{hash=7603d4c6a9e247c53facef7c1f039b19}{%
+           family={Kant},
+           familyi={K\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=1c822f6ffa661bc45f40f5fa78d2c4ba}{%
+           family={Guyer},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=17fd917036735345390bdbd1620edce1}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={A.W.},
+           giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {1517 Media}%
+        {Cambridge University Press}%
       }
-      \strng{namehash}{beb988fc2eff76bad8845ace4b5b3c3c}
-      \strng{fullhash}{beb988fc2eff76bad8845ace4b5b3c3c}
-      \strng{bibnamehash}{beb988fc2eff76bad8845ace4b5b3c3c}
-      \strng{authorbibnamehash}{beb988fc2eff76bad8845ace4b5b3c3c}
-      \strng{authornamehash}{beb988fc2eff76bad8845ace4b5b3c3c}
-      \strng{authorfullhash}{beb988fc2eff76bad8845ace4b5b3c3c}
-      \field{sortinit}{C}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \strng{namehash}{cf98bb98dcc3f695b54f86377d0fea39}
+      \strng{fullhash}{cf98bb98dcc3f695b54f86377d0fea39}
+      \strng{bibnamehash}{cf98bb98dcc3f695b54f86377d0fea39}
+      \strng{authorbibnamehash}{cf98bb98dcc3f695b54f86377d0fea39}
+      \strng{authornamehash}{cf98bb98dcc3f695b54f86377d0fea39}
+      \strng{authorfullhash}{cf98bb98dcc3f695b54f86377d0fea39}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
       \true{uniquework}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{John J. Collins's Introduction to the Hebrew Bible is one of the most reliable and widely adopted critical textbooks at undergraduate and graduate levels alike, and for good reason. Enriched by decades of classroom teaching, it is aimed explicitly at motivated students, regardless of their previous exposure to the Bible or faith commitments. The approach is ecumenical, in the sense that it seeks not to impose any particular theological perspective but to provide information and raise questions that should be relevant to any student. Collins proceeds through the canon of the Old Testament and the Apocrypha, judiciously presenting the current state of historical, archaeological, and literary understanding of the biblical text, and engaging the student in questions of significance and interpretation for the contemporary world. The third edition is presented in a new and engaging format with new maps and images. An index has been added to the volume for the first time.}
-      \field{edition}{3}
-      \field{isbn}{9781506445984}
-      \field{title}{Introduction to the Hebrew Bible: Third Edition}
-      \field{year}{2018}
+      \field{isbn}{9781107268333}
+      \field{series}{The Cambridge Edition of the Works of Immanuel Kant}
+      \field{title}{Critique of Pure Reason}
+      \field{year}{1999}
       \verb{urlraw}
-      \verb http://www.jstor.org/stable/j.ctt1w6tbx5
+      \verb https://books.google.com/books?id=7UCbAAAAQBAJ
       \endverb
       \verb{url}
-      \verb http://www.jstor.org/stable/j.ctt1w6tbx5
+      \verb https://books.google.com/books?id=7UCbAAAAQBAJ
       \endverb
     \endentry
   \enddatalist

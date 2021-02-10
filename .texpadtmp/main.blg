@@ -1,18 +1,18 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
 [0] Config.pm:307> INFO - Logfile is '/Users/zixuanwu/Desktop/blogpostone/.texpadtmp/main.blg'
-[80] biber-darwin:322> INFO - === Sun Feb  7, 2021, 17:24:50
-[97] Biber.pm:415> INFO - Reading '/Users/zixuanwu/Desktop/blogpostone/.texpadtmp/main.bcf'
-[236] Biber.pm:943> INFO - Found 1 citekeys in bib section 0
-[250] Biber.pm:4256> INFO - Processing section 0
-[250] Utils.pm:75> INFO - Globbing data source ''/Users/zixuanwu/Desktop/blogpostone/newone.bib''
-[250] Utils.pm:91> INFO - Globbed data source ''/Users/zixuanwu/Desktop/blogpostone/newone.bib'' to /Users/zixuanwu/Desktop/blogpostone/newone.bib
-[261] Biber.pm:4455> INFO - Looking for bibtex format file '/Users/zixuanwu/Desktop/blogpostone/newone.bib' for section 0
-[262] bibtex.pm:1653> INFO - LaTeX decoding ...
-[266] bibtex.pm:1471> INFO - Found BibTeX data source '/Users/zixuanwu/Desktop/blogpostone/newone.bib'
-[307] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[307] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[307] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
-[307] Biber.pm:4084> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
-[307] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[313] bbl.pm:652> INFO - Writing '/Users/zixuanwu/Desktop/blogpostone/.texpadtmp/main.bbl' with encoding 'UTF-8'
-[314] bbl.pm:755> INFO - Output to /Users/zixuanwu/Desktop/blogpostone/.texpadtmp/main.bbl
+[73] biber-darwin:322> INFO - === Wed Feb 10, 2021, 12:41:00
+[90] Biber.pm:415> INFO - Reading '/Users/zixuanwu/Desktop/blogpostone/.texpadtmp/main.bcf'
+[220] Biber.pm:943> INFO - Found 1 citekeys in bib section 0
+[233] Biber.pm:4256> INFO - Processing section 0
+[234] Utils.pm:75> INFO - Globbing data source ''/Users/zixuanwu/Desktop/blogpostone/newone.bib''
+[234] Utils.pm:91> INFO - Globbed data source ''/Users/zixuanwu/Desktop/blogpostone/newone.bib'' to /Users/zixuanwu/Desktop/blogpostone/newone.bib
+[244] Biber.pm:4455> INFO - Looking for bibtex format file '/Users/zixuanwu/Desktop/blogpostone/newone.bib' for section 0
+[244] bibtex.pm:1653> INFO - LaTeX decoding ...
+[247] bibtex.pm:1471> INFO - Found BibTeX data source '/Users/zixuanwu/Desktop/blogpostone/newone.bib'
+[289] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[290] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[290] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[290] Biber.pm:4084> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[290] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[298] bbl.pm:652> INFO - Writing '/Users/zixuanwu/Desktop/blogpostone/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[299] bbl.pm:755> INFO - Output to /Users/zixuanwu/Desktop/blogpostone/.texpadtmp/main.bbl

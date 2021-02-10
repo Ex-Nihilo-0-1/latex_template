@@ -3035,8 +3035,8 @@
     <bcf:datasource type="file" datatype="bibtex">newone.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Collins</bcf:citekey>
-    <bcf:citekey order="2">Collins</bcf:citekey>
+    <bcf:citekey order="1">kant1999critique</bcf:citekey>
+    <bcf:citekey order="2">kant1999critique</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">
