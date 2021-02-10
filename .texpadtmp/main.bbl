@@ -1,0 +1,59 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{Collins}{book}{}
+      \name{author}{1}{}{%
+        {{hash=beb988fc2eff76bad8845ace4b5b3c3c}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {1517 Media}%
+      }
+      \strng{namehash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{fullhash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{bibnamehash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{authorbibnamehash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{authornamehash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{authorfullhash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{John J. Collins's Introduction to the Hebrew Bible is one of the most reliable and widely adopted critical textbooks at undergraduate and graduate levels alike, and for good reason. Enriched by decades of classroom teaching, it is aimed explicitly at motivated students, regardless of their previous exposure to the Bible or faith commitments. The approach is ecumenical, in the sense that it seeks not to impose any particular theological perspective but to provide information and raise questions that should be relevant to any student. Collins proceeds through the canon of the Old Testament and the Apocrypha, judiciously presenting the current state of historical, archaeological, and literary understanding of the biblical text, and engaging the student in questions of significance and interpretation for the contemporary world. The third edition is presented in a new and engaging format with new maps and images. An index has been added to the volume for the first time.}
+      \field{edition}{3}
+      \field{isbn}{9781506445984}
+      \field{title}{Introduction to the Hebrew Bible: Third Edition}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/j.ctt1w6tbx5
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/j.ctt1w6tbx5
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
